@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="list_guest_button_textview" translatable="false">List guest</string>
+    <string name="anniversary_textview">Anniversary</string>
+    <string name="call_button_textview">Call</string>
+    <string name="order_button_textview">Order</string>
+    <string name="ivanov_textview">Ivanov Ivan</string>
+    <string name="ivanova_textview">Ivanova Vera</string>
+    <string name="petrov_textview">Petrov Petr</string>
+    <string name="petrova_textview">Petrova Nadeghda</string>
+    <string name="sidorov_textview">Sidorov Sidr</string>
+    <string name="sidorova_textview">Sidorova Lubov</string>
+    <string name="fish_textview">There are no fish here!!!</string>
+</resources>

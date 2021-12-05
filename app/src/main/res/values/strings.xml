@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">HomeWork3</string>
+    <string name="list_guest_button_textview">Список гостей</string>
+    <string name="anniversary_textview">Юбилей папы</string>
+    <string name="call_button_textview">Позвонить в ресторан</string>
+    <string name="order_button_textview">Заказать подарок</string>
+    <string name="ivanov_textview">Иванов Иван</string>
+    <string name="ivanova_textview">Иванова Вера</string>
+    <string name="petrov_textview">Петров Петр</string>
+    <string name="petrova_textview">Петрова Надежда</string>
+    <string name="sidorov_textview">Сидоров Сидр</string>
+    <string name="sidorova_textview">Сидорова Любовь</string>
+    <string name="fish_textview">Здесь рыбы нет!!!</string>
+</resources>
